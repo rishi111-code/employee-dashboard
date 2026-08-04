@@ -1,0 +1,27 @@
+.error-box{
+
+background:#fee2e2;
+
+padding:40px;
+
+border-radius:15px;
+
+text-align:center;
+
+margin-top:50px;
+
+}
+
+.retry-btn{
+
+margin-top:20px;
+
+background:#dc2626;
+
+color:white;
+
+padding:12px 20px;
+
+border-radius:8px;
+
+}
